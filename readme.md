@@ -1,4 +1,4 @@
-﻿# DP-100-Implementing-an-Azure-Data-Science-Solution
+﻿# DP-100 在 Azure 上设计和实现数据科学解决方案
 
  实验构成了一系列开发数据科学解决方案的任务，从数据分析开始，一直到将经过训练的模型部署到 Azure 机器学习服务。 
 
