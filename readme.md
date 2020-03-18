@@ -1,6 +1,6 @@
 ﻿# DP-100：在 Azure 上设计和实现数据科学解决方案
 
-此存储库包含 Microsoft 课程 [DP-100T01-A：在 Azure 上设计和实现数据科学解决方案**](https://docs.microsoft.com/zh-cn/learn/certifications/courses/dp-100t01)的实验文件。
+此存储库包含 Microsoft 课程 [DP-100T01-A： *在 Azure 上设计和实现数据科学解决方案**](https://docs.microsoft.com/zh-cn/learn/certifications/courses/dp-100t01)的实验文件。
 
 [此处](labdocs/README.md)提供实验说明。
 

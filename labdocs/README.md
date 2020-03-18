@@ -2,7 +2,7 @@
 
 ## 课程实验
 
-欢迎使用课程 [DP-100 在 Azure 上设计和实现数据科学解决方案**](https://docs.microsoft.com/zh-cn/learn/certifications/courses/dp-100t01)的动手实验练习。这些实验配合课程提供，你可以通过它们练习使用教材中介绍的方法。
+欢迎使用课程 [DP-100 *在 Azure 上设计和实现数据科学解决方案*](https://docs.microsoft.com/zh-cn/learn/certifications/courses/dp-100t01)的动手实验练习。这些实验配合课程提供，你可以通过它们练习使用教材中介绍的方法。
 
 应认真参照每个 Markdown 文档中的说明，按顺序完成实验。
 
